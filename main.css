@@ -1,0 +1,96 @@
+header {
+	background-color: white;
+	display: block;
+	height: 100px;
+	font-size: 300%;
+	text-align: center;
+
+}
+
+h1:hover {
+	color: #5D0F0D;
+}
+
+td {
+	font-size: 50px;
+}
+
+h1 {
+	padding: 0px;
+	margin: 0px;
+}
+
+
+nav {
+	margin-left:auto;
+	margin-right:auto;
+	width:70%;
+}
+
+td {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+td:hover {
+	color: #5D0F0D;
+}
+
+
+/*--------------------------------BEGINNING OF LOG IN BUTTON STYLING ---------------------------------*/
+
+input {
+	display: block;
+	width: 140px;
+}
+
+#log_in {
+	background-color: #800000;
+	position: relative;
+	color: white;
+	border: solid 15px #5D0F0D;
+	padding: 10px;
+	display: inline-block;
+	font-family: 'Droid Serif', 'serif';
+	font-size: 15px;
+	float: right;
+	margin: 20px;
+}
+
+p {
+
+}
+
+#create_account {
+	position: relative;
+	float: left;
+	color: white;
+}
+
+button {
+	position: relative;
+	float: right;
+	color: white;
+	background-color:#5D0F0D;
+	font-family: 'Droid Serif', 'serif';
+	font-size: 15px;
+}
+
+/*--------------------------------END OF LOG IN BUTTON STYLING ---------------------------------*/
+
+p {
+	font-family: 'Droid Serif', 'serif';
+}
+
+h2 {
+	display: inline-block;
+	padding: 5px;
+	color: white;
+}
+
+article {
+	width: 70%;
+	padding: 50px;
+	border: solid 15px #5D0F0D;
+	background-color: #800000;
+}
